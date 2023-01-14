@@ -3,7 +3,10 @@ RENCANA KONTEN Handika
 - javascript
   * ES6
   * Framework Javascript
+    ^ view
 - Struktur data dasar
 - PHPFrameworks
+  ^ laravel
 - Interview
 - vlogs
+- Python
