@@ -4,6 +4,7 @@ RENCANA KONTEN Handika
   * ES6
   * Framework Javascript
     ^ view
+    ^ react
 - Struktur data dasar
 - PHPFrameworks
   ^ laravel
