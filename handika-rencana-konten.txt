@@ -1,6 +1,8 @@
 RENCANA KONTEN Handika
 
 - javascript
+  * ES6
+  * Framework Javascript
 - PHPFrameworks
 - Interview
 - vlogs
